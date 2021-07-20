@@ -14,4 +14,4 @@ FreeBSD, also on behalf of Vulgan OS, was possible by Debian, Ubuntu, and PearOS
 
 
 
-COPYRIGHT LICENSE 2021 (7/20/21 2:29 PM EDT) -- UPDATED RECENTLY
+COPYRIGHT LICENSE 2021 (7/20/21 2:29 PM EDT) -- UPDATED RECENTLY 
